@@ -3,7 +3,7 @@ body {
   background: hsl(0,0%,20%);
   color: hsl(0,0%,70%);
   font-family: "San Francisco", "Ubuntu", sans-serif;
-  font-size: 18px;
+  font-size: 22px;
 }
 
 nav {
@@ -38,4 +38,10 @@ pre {
 pre[data-type="bash"] {
   background: black;
   color: hsl(150, 50%, 50%);
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 24px;
 }
