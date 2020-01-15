@@ -10,3 +10,16 @@ article {
   max-width: 800px;
   margin: 100px auto;
 }
+
+a {
+  color: hsl(180, 80%, 70%);
+}
+
+p {
+  line-height: 1.5;
+}
+
+pre[data-type="bash"] {
+  background: black;
+  color: hsl(150, 50%, 50%);
+}
