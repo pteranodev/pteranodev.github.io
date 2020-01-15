@@ -5,3 +5,8 @@ body {
   font-family: "San Francisco", "Ubuntu", sans-serif;
   font-size: 18px;
 }
+
+article {
+  max-width: 800px;
+  margin: 100px auto;
+}
