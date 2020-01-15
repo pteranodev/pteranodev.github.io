@@ -47,8 +47,8 @@ pre[data-type="bash"] {
 h1 {
   text-transform: uppercase;
   font-weight: normal;
-  font-size: 24px;
+  font-size: 20px;
   margin: 60px 0 10px 0;
   color: hsl(0,0%,100%);
-  border-bottom: solid 2px hsl(0,0%,100%);
+  border-bottom: dotted 2px hsl(0,0%,40%);
 }
