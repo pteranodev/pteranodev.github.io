@@ -13,6 +13,7 @@ article {
 
 a {
   color: hsl(180, 80%, 70%);
+  white-space: nowrap;
 }
 
 p {
