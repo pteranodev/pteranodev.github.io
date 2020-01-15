@@ -15,6 +15,11 @@ a {
   color: hsl(180, 80%, 70%);
   white-space: nowrap;
   display: inline-block;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 p {
