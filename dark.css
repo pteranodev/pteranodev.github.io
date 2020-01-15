@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  background: hsl(0,0%,20%);
+  color: hsl(0,0%,70%);
+  font-family: "San Francisco", "Ubuntu", sans-serif;
+  font-size: 18px;
+}
