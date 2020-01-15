@@ -14,10 +14,15 @@ article {
 a {
   color: hsl(180, 80%, 70%);
   white-space: nowrap;
+  display: inline-block;
 }
 
 p {
   line-height: 1.5;
+}
+
+pre {
+  padding: 4px 8px;
 }
 
 pre[data-type="bash"] {
