@@ -6,6 +6,11 @@ body {
   font-size: 18px;
 }
 
+nav {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 article {
   max-width: 800px;
   margin: 100px auto;
